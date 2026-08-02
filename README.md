@@ -83,7 +83,6 @@ The framework trains and ensembles multiple predictive algorithms:
 ## 📁 Project Structure
 
 ```text
-├── models/                  # Directory for saved trained models (.joblib & .h5)
 ├── cardio_train.csv         # Semicolon-separated clinical dataset
 ├── project.py               # Data pipeline, preprocessing, and model training routines
 ├── app.py                   # Streamlit web interface application
